@@ -6,8 +6,6 @@ const port = 3000;
 
 app.use(bodyParser.json());
 
-
-
 let todos = [];
 let idCounter = 1;
 
